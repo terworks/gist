@@ -1,1 +1,7 @@
-## `Ξ` Sorts after "Z"/"z" in known systems.
+- Sorts after "Z"/"z" in known systems.
+  ```
+  Ξ
+  ```
+  ```
+  Ω
+  ```
